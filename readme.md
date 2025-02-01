@@ -1,6 +1,6 @@
-# Proyecto Backend Resetario
+# Proyecto Backend Recetario
 
-¡Bienvenido al proyecto Backend Resetario! Este proyecto tiene como objetivo proporcionar una base sólida para el desarrollo de aplicaciones backend utilizando la arquitectura Screaming.
+¡Bienvenido al proyecto Backend Recetario! Este proyecto tiene como objetivo proporcionar una base sólida para el desarrollo de aplicaciones backend utilizando la arquitectura Screaming.
 
 ## Estructura del Proyecto
 
@@ -11,10 +11,10 @@ Para aprender más sobre la arquitectura Screaming, puedes visitar el siguiente 
 
 ## Estructura Visual del Proyecto
 
-La siguiente es una representación visual de la estructura del proyecto Backend Resetario:
+La siguiente es una representación visual de la estructura del proyecto Backend Recetario:
 
 ```
-Backend-Resetario/
+Backend-Recetario/
 ├── src/
 │   ├── api/
 │   ├── config/
@@ -39,10 +39,10 @@ Esta estructura está diseñada para mantener el código organizado y facilitar 
 
 ## Descripción del Proyecto
 
-Backend Resetario es un proyecto diseñado para facilitar el desarrollo de aplicaciones backend robustas y escalables. Proporciona una estructura clara y modular que permite a los desarrolladores centrarse en la lógica de negocio sin preocuparse por la organización del código.
+Backend Recetario es un proyecto diseñado para facilitar el desarrollo de aplicaciones backend robustas y escalables. Proporciona una estructura clara y modular que permite a los desarrolladores centrarse en la lógica de negocio sin preocuparse por la organización del código.
 
 ## Agradecimientos
 
-Gracias por tu interés en el proyecto Backend Resetario. Esperamos que encuentres útil nuestra estructura y que te ayude a desarrollar aplicaciones backend de manera más eficiente.
+Gracias por tu interés en el proyecto Backend Recetario. Esperamos que encuentres útil nuestra estructura y que te ayude a desarrollar aplicaciones backend de manera más eficiente.
 
 ¡Feliz codificación!
