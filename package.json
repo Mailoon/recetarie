@@ -1,0 +1,36 @@
+{
+  "name": "backend-recetario",
+  "version": "1.0.0",
+  "description": "Coockbook",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "start:dev": "dotenv -e .env.development node src/index.js",
+    "start:prod": "dotenv -e .env.production node src/index.js",
+    "build": "echo \"Error: no build specified\" && exit 1",
+    "lint": "eslint . --ext .js",
+    "format": "prettier --write ."
+  },
+  "author": "Maai",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.3",
+    "cloudinary": "^1.41.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.9.5",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.5-lts.1",
+    "multer-storage-cloudinary": "^4.0.0"
+  },
+  "devDependencies": {
+    "dotenv-cli": "^8.0.0",
+    "eslint": "^9.19.0",
+    "nodemon": "^3.1.9",
+    "prettier": "^3.4.2"
+  }
+}
